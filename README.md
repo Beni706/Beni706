@@ -15,19 +15,11 @@ Passionné par la création de systèmes robustes, je suis Beni706, un développ
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Beni706&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Beni706&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 👋 Hi, I’m @Beni706
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Beni706/Beni706 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
